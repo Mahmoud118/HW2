@@ -1,4 +1,4 @@
-# Homework 2 - Video Captioning with Attention
+Homework 2 - Video Captioning with Attention
 Brief Description
 This project implements a video captioning system using the S2VT (Sequence to Video to Text) architecture with attention. The system is designed to process video features and generate natural language descriptions for the videos. It includes the following tasks:
 
